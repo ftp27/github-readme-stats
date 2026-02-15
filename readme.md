@@ -1,6 +1,10 @@
-# Go GitHub Readme Stats Server
+# Go GitHub Readme Stats
 
-This is a Go reimplementation of the GitHub Readme Stats API server.
+This is a Go reimplementation of the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+
+# Motivation
+
+The original project is not working well lately and selfhosted solutions stopped to me as well. So I decided to vibecode the original project in Go to have a more stable solution with lower memory footprint. I hope I find time to reimplement most of the code myself, but it works now and hope it will be useful for some people.
 
 ## Requirements
 
